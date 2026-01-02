@@ -9,11 +9,6 @@ This application has no ******** mapping for /error, so you are seeing this as a
 #EXTM3U
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://k.top4top.io/p_3633e4dec1.png" group-title="📺| INFO",DISCLAMER https://d.top4top.io/m_3633o7tzt1.mp4
-
                        <=================== "🔵FILM" =============================>
 #EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/74/00/39/74003970912407ba7413996efea961ab.jpg",MOVIE SPHERE https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 
 #EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/c7/4e/f2/c74ef24d62e7b57011e78eb48a128863.jpg",MYTIME MOVIE https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8 
